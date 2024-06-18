@@ -33,12 +33,26 @@
    | 9-5/8" to 13-3/8" | 60 to 70 |
    | 7" to 7-5/8" | 70 to 80 |
 
-7.	Slowly start pump circulation and increase pump pressure as per Fishing Supervisor recommendations. Carefully monitor torque and RPM during the cutting to ensure a smooth cut is made. Do not exceed 2,000 psi SPP. Continue cutting as long as torque is noticeably higher than the FRT recorded earlier.
-When the cut is complete, the knives will swing out fully and pump pressure will drop. This indicates a successful cut has been made.
-9.	Optional: A further check can be made by slacking off approximately 2,000 lbs.
-   > If torque is observed to be close to FRT without any cut indications, Fishing Supervisor may advise to stop and POOH after 1 hour. At surface, perform another surface test to confirm the cutter’s function.
-11. Bleed off pump pressure to close knives.
-12. If required, confirm casing cut via circulation through the casing cut.
-13. Perform a flow check if preferred.
-14. POOH the BHA. On surface, inspect knives for wear patterns to confirm the casing is cut.
-15. If cutter is no longer used, secure the knives with tape and store safely.
+7.	Slowly start pump circulation and increase pump pressure as per Fishing Supervisor recommendations. Carefully monitor torque and RPM during the cutting to ensure a smooth cut is made. Do not exceed 2,000 psi SPP. Continue cutting as long as torque is noticeably higher than the FRT recorded earlier. Check mud returns for metal cuttings.
+8. Continue cutting until any of the below indications a successful cut is observed:
+   * Pressure drop
+   * Torque drop (close to FRT)
+   * Casing jump
+
+   > If torque is observed to be close to FRT without any cut indications, Fishing Supervisor may advise to stop and POOH after 1 hour. At surface, perform another surface test to confirm the cutter’s function (for investigation records).
+
+10. Once a complete cut indication is observed, stop rotation.
+11. Optional: A further check can be made by slacking off the knives on the casing ledge with approximately 2,000 lbs.
+12. Bleed off pump pressure to close knives.
+13. If required, confirm casing cut via circulation through the casing cut.
+14. Perform a flow check if preferred.
+15. POOH the BHA. On surface, inspect knives for wear patterns to confirm the casing is cut.
+16. If cutter is no longer used, secure the knives with tape and store safely.
+
+## Risk Assessment
+
+| Risk | Controls | Immediate Mitigation |
+| --- | --- | --- |
+| Cutter unable to function properly due to debris causing piston/knife jam | Ensure all tubular to be used are clean from debris and cement (e.g. if a cement job was done prior to the cutting operation with the same pipe). | Clean the cutter or replace with backup. Use a clean set of tubulars for the next run. |
+| No indication of casing cut | Review casing collar log (CCL) and ensure the cut dpeth is not at a collar. Surface test to ensure cutter operability. | POOH to assess the cutter condition. |
+| Heavy vibration during cutting | Ensure stabilizers / taper mill are installed around the Pressure Pipe Cutter. | Adjust rpm as required, expect increased wear on the knives. |
