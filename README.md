@@ -24,7 +24,13 @@ Each file will detail the BHA, Procedures, and Risk Assessment for each type of 
 * No tool connections, as this may differ widely across companies and regions.
 * No information on crossovers and drillpipe, as they differ across applications.
 * Avoid any company- or region-specific tools and procedures.
-* For larger changes (e.g. the same operation but for thru tubing applications), please suggest a new, separate file instead.
-* Use the standard GitHub features for any issues, suggestions, forking, and pull requests. All files should be in Markdown only.
 
-For matters outside of this repo, please contact systems@wellsrx.co.
+For larger changes (e.g. the same operation but for thru tubing applications), please suggest a new, separate file instead.
+
+Use the standard GitHub features for any issues, suggestions, forking, and pull requests. All files should be in Markdown only.
+
+## About WellsRX
+
+WellsRX is a Malaysia’s team of oilfield fishing experts who help our customers overcome downhole challenges through precise design, dependable technologies, and masterful execution.
+
+Visit https://wellsrx.co for more information or to contact us.
