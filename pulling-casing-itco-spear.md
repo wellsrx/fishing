@@ -1,4 +1,4 @@
-![image](https://github.com/wellsrx/fishing/assets/172357604/3921655d-998f-417e-8e99-014b7d7ed23e)# Pulling Casing with Itco Spear
+# Pulling Casing with Itco Spear
 
 ## BHA
 
