@@ -2,10 +2,13 @@
 
 ## BHA
 
-- Taper mill
-- Pressure Pipe Cutter
-- Non-rotating Stabilizer
-- Crossover and DP to surface
+| Tool | Selection remarks |
+| --- | --- |
+| Taper mill or bullnose | If restrictions are expected select the largest taper mill available below casing drift ID. Smooth OD. |
+| Non-rotating stabilizer | Optional for additional stabilization. Not required if taper mill is available. |
+| Pressure Pipe Cutter | Ideally the largest model that is able to cut the casing. Ensure installed knives are suitable for the casing size. |
+| Non-rotating stabilizer | Optional for additional stabilization. |
+| Crossover / DP to surface | As per rig |
 
 ## Procedures
 
@@ -34,7 +37,7 @@
 When the cut is complete, the knives will swing out fully and pump pressure will drop. This indicates a successful cut has been made.
 9.	Optional: A further check can be made by slacking off approximately 2,000 lbs.
    > If torque is observed to be close to FRT without any cut indications, Fishing Supervisor may advise to stop and POOH after 1 hour. At surface, perform another surface test to confirm the cutter’s function.
-10. Bleed off pump pressure to close knives.
-11. If required, confirm casing cut via circulation through the casing cut.
-12. POOH the BHA On surface, inspect knives for wear patterns to confirm the casing is cut.
-13. If cutter is no longer used, secure the knives with tape and store safely.
+11. Bleed off pump pressure to close knives.
+12. If required, confirm casing cut via circulation through the casing cut.
+13. POOH the BHA On surface, inspect knives for wear patterns to confirm the casing is cut.
+14. If cutter is no longer used, secure the knives with tape and store safely.
