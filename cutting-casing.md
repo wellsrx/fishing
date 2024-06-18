@@ -39,5 +39,6 @@ When the cut is complete, the knives will swing out fully and pump pressure will
    > If torque is observed to be close to FRT without any cut indications, Fishing Supervisor may advise to stop and POOH after 1 hour. At surface, perform another surface test to confirm the cutter’s function.
 11. Bleed off pump pressure to close knives.
 12. If required, confirm casing cut via circulation through the casing cut.
-13. POOH the BHA On surface, inspect knives for wear patterns to confirm the casing is cut.
-14. If cutter is no longer used, secure the knives with tape and store safely.
+13. Perform a flow check if preferred.
+14. POOH the BHA. On surface, inspect knives for wear patterns to confirm the casing is cut.
+15. If cutter is no longer used, secure the knives with tape and store safely.
